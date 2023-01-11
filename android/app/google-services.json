@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034882147930",
+    "project_id": "x-positron",
+    "storage_bucket": "x-positron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034882147930:android:d44bf9e1d8c65a0a62da63",
+        "android_client_info": {
+          "package_name": "com.em.x_positron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034882147930-eb9d68dj4qlt4dpjl3liq2jqq0m6cgn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFjrfehav0ETNyTNz6VzFCVOrtWS3kIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034882147930-eb9d68dj4qlt4dpjl3liq2jqq0m6cgn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
